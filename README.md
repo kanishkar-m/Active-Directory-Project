@@ -6,7 +6,7 @@ This project involves setting up a comprehensive lab environment to simulate rea
 
 # Active Directory and Security Lab Setup
 
-![Active Directory Project](Active-Directory-Project/Active%20Directory.jpg)
+![Active Directory Project](Active-Directory.jpg)
 
 ## Skills Acquired
 
