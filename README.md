@@ -4,8 +4,9 @@
 
 This project involves setting up a comprehensive lab environment to simulate real-world cybersecurity scenarios. The goal was to gain hands-on experience with Active Directory, security monitoring, and automation tools. The lab includes the configuration of multiple virtual machines, installation of security tools, and running security tests, all within a controlled environment. This project has greatly enhanced my understanding of network security, endpoint monitoring, and Active Directory management.
 
-![Active Directory Lab Diagram](Active_Directory.jpg) <br>
-*Ref 1. Active Directory Lab Diagram*
+# Active Directory and Security Lab Setup
+
+![Active Directory Project](Active-Directory-Project/Active%20Directory.jpg)
 
 ## Skills Acquired
 
